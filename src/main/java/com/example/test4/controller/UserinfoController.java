@@ -10,6 +10,6 @@ public class UserinfoController {
         return "hello";
     }
     public void eat(){
-
+        System.out.println("zsf");
     }
 }
